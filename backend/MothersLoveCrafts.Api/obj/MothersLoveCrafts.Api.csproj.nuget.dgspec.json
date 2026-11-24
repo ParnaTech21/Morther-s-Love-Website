@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\mothers-love-crafts\\backend\\MothersLoveCrafts.Api\\MothersLoveCrafts.Api.csproj": {}
+    "J:\\Morther-s-Love-Website\\backend\\MothersLoveCrafts.Api\\MothersLoveCrafts.Api.csproj": {}
   },
   "projects": {
-    "J:\\mothers-love-crafts\\backend\\MothersLoveCrafts.Api\\MothersLoveCrafts.Api.csproj": {
+    "J:\\Morther-s-Love-Website\\backend\\MothersLoveCrafts.Api\\MothersLoveCrafts.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\mothers-love-crafts\\backend\\MothersLoveCrafts.Api\\MothersLoveCrafts.Api.csproj",
+        "projectUniqueName": "J:\\Morther-s-Love-Website\\backend\\MothersLoveCrafts.Api\\MothersLoveCrafts.Api.csproj",
         "projectName": "MothersLoveCrafts.Api",
-        "projectPath": "J:\\mothers-love-crafts\\backend\\MothersLoveCrafts.Api\\MothersLoveCrafts.Api.csproj",
+        "projectPath": "J:\\Morther-s-Love-Website\\backend\\MothersLoveCrafts.Api\\MothersLoveCrafts.Api.csproj",
         "packagesPath": "C:\\Users\\SudoTec\\.nuget\\packages\\",
-        "outputPath": "J:\\mothers-love-crafts\\backend\\MothersLoveCrafts.Api\\obj\\",
+        "outputPath": "J:\\Morther-s-Love-Website\\backend\\MothersLoveCrafts.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
